@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-drag-and-drop",
+  "version": "1.0.0",
+  "description": "My luminous Nuxt.js project",
+  "author": "a0972199950",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vuedraggable": "^2.23.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
